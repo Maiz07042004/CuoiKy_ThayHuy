@@ -1,7 +1,7 @@
 package com.example.cuoikytest;
 
 public class Nhat {
-    private String hoten;
-    private String diachi;
+    private String thanhMai;
+    private String thanhMai2;
 
 }
