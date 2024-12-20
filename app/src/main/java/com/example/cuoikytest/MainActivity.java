@@ -9,6 +9,8 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
+    private String mai1;
+    private String mai2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
